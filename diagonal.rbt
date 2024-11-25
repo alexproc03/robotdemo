@@ -1,0 +1,7 @@
+begin
+    initial 0, 0
+    upleft 100
+    upright 100
+    downleft 100
+    downright 100
+end

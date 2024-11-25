@@ -1,0 +1,5 @@
+begin
+    initial 0, 0
+    360 10
+    up 10000000
+end
